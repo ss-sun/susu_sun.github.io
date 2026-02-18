@@ -140,3 +140,9 @@ span.highlight {
     display: inline-block;
     border-radius: 10px;
 }
+
+.box-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em;
+}
